@@ -1,2 +1,2 @@
-# truespend-app
-TrueSpend expense tracker - React frontend
+# spendcal-app
+SpendCal expense tracker - React frontend
